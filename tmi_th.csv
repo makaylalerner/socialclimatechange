@@ -1,0 +1,5 @@
+﻿Thresholds,,1 deg,2 deg,3 deg,4 deg,5 deg
+minimum,NATIONAL,0.000000,0.000000,-0.000001,-0.000001,-0.000001
+max - lowest tercile; min - medium tercile,NATIONAL,0.000006,0.000016,0.000032,0.000045,0.000071
+max - medium tercile; min - highest tercile,NATIONAL,0.000010,0.000027,0.000049,0.000072,0.000109
+maximum,NATIONAL,0.000023,0.000058,0.000092,0.000121,0.000177
