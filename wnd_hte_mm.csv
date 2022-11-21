@@ -1,0 +1,44 @@
+﻿,,Ratio of delays with adaptation over delays without adaptation,,,,,
+Means and Medians,,25 cm,50 cm,75 cm,100 cm,125 cm,150 cm
+Mean - Lowest Tercile,Southwest,,79%,84%,74%,17%,1%
+,Northwest,83%,,75%,33%,56%,50%
+,Southern Great Plains,66%,1%,0%,0%,0%,0%
+,Southeast - Gulf,31%,0%,0%,0%,0%,0%
+,Southeast - Atlantic,95%,6%,0%,0%,0%,0%
+,Northeast,56%,4%,1%,0%,0%,0%
+,NATIONAL,69%,5%,0%,0%,0%,0%
+Mean - Medium Tercile,Southwest,,,98%,95%,50%,8%
+,Northwest,,,,98%,98%,99%
+,Southern Great Plains,72%,9%,0%,0%,0%,0%
+,Southeast - Gulf,84%,7%,1%,0%,1%,1%
+,Southeast - Atlantic,99%,46%,14%,5%,2%,2%
+,Northeast,95%,53%,27%,16%,15%,17%
+,NATIONAL,98%,51%,36%,24%,12%,6%
+Mean - Highest Tercile,Southwest,100%,100%,100%,100%,93%,63%
+,Northwest,100%,100%,100%,100%,100%,100%
+,Southern Great Plains,89%,23%,3%,3%,4%,4%
+,Southeast - Gulf,100%,72%,25%,22%,29%,28%
+,Southeast - Atlantic,100%,100%,97%,88%,80%,76%
+,Northeast,100%,100%,99%,98%,97%,98%
+,NATIONAL,100%,100%,100%,98%,92%,87%
+Median - Lowest Tercile,Southwest,,82%,91%,81%,12%,1%
+,Northwest,83%,,73%,29%,65%,43%
+,Southern Great Plains,68%,1%,0%,0%,0%,0%
+,Southeast - Gulf,31%,1%,0%,0%,0%,0%
+,Southeast - Atlantic,95%,6%,0%,0%,0%,0%
+,Northeast,52%,2%,0%,0%,0%,0%
+,NATIONAL,75%,4%,0%,0%,0%,0%
+Median - Medium Tercile,Southwest,,,98%,95%,48%,5%
+,Northwest,,,,98%,98%,99%
+,Southern Great Plains,71%,9%,0%,0%,0%,0%
+,Southeast - Gulf,89%,3%,1%,0%,1%,1%
+,Southeast - Atlantic,99%,37%,3%,0%,0%,0%
+,Northeast,95%,50%,17%,8%,7%,9%
+,NATIONAL,98%,46%,19%,9%,5%,2%
+Median - Highest Tercile,Southwest,100%,100%,100%,100%,95%,58%
+,Northwest,100%,100%,100%,100%,100%,100%
+,Southern Great Plains,92%,22%,2%,2%,2%,2%
+,Southeast - Gulf,100%,68%,5%,1%,4%,4%
+,Southeast - Atlantic,100%,100%,100%,96%,94%,90%
+,Northeast,100%,100%,100%,100%,100%,100%
+,NATIONAL,100%,100%,100%,100%,100%,100%

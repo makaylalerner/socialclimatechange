@@ -1,0 +1,30 @@
+﻿,,Hours lost (hours / person / year),,,,,
+Thresholds,,25 cm,50 cm,75 cm,100 cm,125 cm,150 cm
+minimum,Southwest, -   , -   , -   , -   , -   , -   
+,Northwest, -   , -   , -   , -   , -   , -   
+,Southern Great Plains, -   , -   , -   , -   , -   , -   
+,Southeast - Gulf, -   , -   , -   , -   , -   , -   
+,Southeast - Atlantic, -   , -   , -   , -   , -   , -   
+,Northeast, -   , -   , -   , -   , -   , -   
+,NATIONAL, -   , -   , -   , -   , -   , -   
+max - lowest tercile; min - medium tercile,Southwest, 2 , 17 , 60 , 118 , 203 , 250 
+,Northwest, 0 , 1 , 3 , 7 , 12 , 15 
+,Southern Great Plains, 36 , 147 , 185 , 188 , 188 , 188 
+,Southeast - Gulf, 2 , 8 , 11 , 12 , 11 , 11 
+,Southeast - Atlantic, 3 , 21 , 53 , 79 , 96 , 104 
+,Northeast, 4 , 22 , 45 , 60 , 68 , 72 
+,NATIONAL, 3 , 16 , 36 , 52 , 62 , 69 
+max - medium tercile; min - highest tercile,Southwest, 19 , 140 , 482 , 982 ," 1,680 "," 2,081 "
+,Northwest, 1 , 5 , 16 , 31 , 56 , 71 
+,Southern Great Plains, 128 , 429 , 538 , 551 , 552 , 552 
+,Southeast - Gulf, 7 , 48 , 102 , 115 , 120 , 121 
+,Southeast - Atlantic, 15 , 117 , 300 , 443 , 551 , 572 
+,Northeast, 18 , 88 , 179 , 233 , 285 , 310 
+,NATIONAL, 16 , 101 , 233 , 324 , 403 , 432 
+maximum,Southwest," 12,441 "," 72,528 "," 220,463 "," 418,796 "," 709,165 "," 866,722 "
+,Northwest, 286 , 950 ," 2,535 "," 4,858 "," 8,763 "," 11,330 "
+,Southern Great Plains," 17,263 "," 83,106 "," 112,964 "," 118,298 "," 119,355 "," 119,376 "
+,Southeast - Gulf," 2,076 "," 19,237 "," 51,244 "," 73,279 "," 78,250 "," 78,252 "
+,Southeast - Atlantic, 748 ," 7,526 "," 20,855 "," 30,130 "," 32,412 "," 32,414 "
+,Northeast," 14,997 "," 55,522 "," 127,816 "," 189,644 "," 257,897 "," 295,594 "
+,NATIONAL," 17,263 "," 83,106 "," 220,463 "," 418,796 "," 709,165 "," 866,722 "

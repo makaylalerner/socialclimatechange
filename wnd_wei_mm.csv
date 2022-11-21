@@ -1,0 +1,50 @@
+﻿,,Ratio of delays with adaptation over delays without adaptation,,,,
+Means and Medians,,1 deg,2 deg,3 deg,4 deg,5 deg
+Mean - Lowest Tercile,Northwest,,,0.0291,0.0218,0.0047
+,Southwest,,,0.0174,0.0082,0.0042
+,Southern Plains,,0.0404,0.0263,0.0241,0.0151
+,Northern Plains,,,0.0463,0.0431,0.0293
+,Midwest,,0.0133,0.0124,0.0116,0.0041
+,Southeast,,,,,
+,Northeast,,,0.0118,0.0070,0.0051
+,NATIONAL,,,0.0103,0.0081,0.0041
+Mean - Medium Tercile,Northwest,,0.0118,0.0847,0.0517,0.0293
+,Southwest,,0.0209,0.0579,0.0417,0.0203
+,Southern Plains,,0.1984,0.0779,0.0683,0.0492
+,Northern Plains,,0.1168,0.1404,0.1465,0.1030
+,Midwest,,0.0630,0.0397,0.0356,0.0170
+,Southeast,0.0745,0.0806,0.0239,0.0172,0.0097
+,Northeast,0.1697,0.0733,0.0380,0.0224,0.0153
+,NATIONAL,,0.0677,0.0414,0.0306,0.0169
+Mean - Highest Tercile,Northwest,0.3236,0.2944,0.4052,0.2843,0.1882
+,Southwest,0.5207,0.3173,0.2600,0.2091,0.1008
+,Southern Plains,0.6458,0.5171,0.2701,0.2155,0.1816
+,Northern Plains,0.5419,0.5361,0.5693,0.4606,0.3661
+,Midwest,0.2753,0.2777,0.1367,0.1088,0.0658
+,Southeast,0.4587,0.3405,0.1721,0.1298,0.0689
+,Northeast,0.5053,0.3639,0.1734,0.1082,0.0437
+,NATIONAL,0.4036,0.3589,0.2110,0.1611,0.0936
+Median - Lowest Tercile,Northwest,,,0.0335,0.0247,0.0039
+,Southwest,,,0.0208,0.0093,0.0053
+,Southern Plains,,0.0313,0.0270,0.0226,0.0149
+,Northern Plains,,,0.0513,0.0456,0.0306
+,Midwest,,0.0173,0.0139,0.0108,0.0031
+,Southeast,,,,,
+,Northeast,,,0.0123,0.0084,0.0062
+,NATIONAL,,,0.0104,0.0084,0.0039
+Median - Medium Tercile,Northwest,,0.0098,0.0722,0.0457,0.0281
+,Southwest,,0.0235,0.0524,0.0365,0.0192
+,Southern Plains,,0.1922,0.0753,0.0639,0.0484
+,Northern Plains,,0.1149,0.1243,0.1412,0.0917
+,Midwest,,0.0602,0.0384,0.0351,0.0172
+,Southeast,0.0786,0.0825,0.0242,0.0180,0.0107
+,Northeast,0.1716,0.0663,0.0401,0.0247,0.0149
+,NATIONAL,,0.0655,0.0401,0.0301,0.0167
+Median - Highest Tercile,Northwest,0.2114,0.2069,0.3260,0.1696,0.1100
+,Southwest,0.5025,0.2465,0.2206,0.1434,0.0743
+,Southern Plains,0.6128,0.4881,0.2127,0.1978,0.1352
+,Northern Plains,0.5554,0.5451,0.5228,0.4362,0.3356
+,Midwest,0.1550,0.1917,0.1037,0.0851,0.0487
+,Southeast,0.3876,0.2738,0.0926,0.0640,0.0330
+,Northeast,0.4163,0.3221,0.0972,0.0654,0.0310
+,NATIONAL,0.3747,0.3009,0.1389,0.1017,0.0580

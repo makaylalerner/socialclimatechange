@@ -1,0 +1,49 @@
+﻿Means and Medians,,1 deg,2 deg,3 deg,4 deg,5 deg
+Mean - Lowest Tercile,Northwest,-0.4,-0.1,0.0,0.0,0.0
+,Southwest,-5.1,-2.1,-0.1,0.0,0.1
+,Southern Plains,-0.9,-0.5,-0.1,0.0,0.0
+,Northern Plains,-5.4,-3.7,-0.2,0.0,0.0
+,Midwest,-0.9,-0.1,0.3,0.4,0.6
+,Southeast,-0.6,-0.4,-0.3,-0.1,0.0
+,Northeast,-0.1,-0.1,0.0,0.1,0.2
+,NATIONAL,-1.5,-0.7,-0.2,0.0,0.1
+Mean - Medium Tercile,Northwest,0.0,0.1,0.3,0.4,0.5
+,Southwest,-0.1,0.0,0.8,1.2,2.4
+,Southern Plains,0.0,0.1,0.2,0.3,0.4
+,Northern Plains,0.0,0.2,0.9,1.5,1.9
+,Midwest,0.1,0.8,2.2,3.5,4.7
+,Southeast,0.2,0.5,1.1,2.0,2.8
+,Northeast,0.0,0.2,0.5,1.4,2.3
+,NATIONAL,0.0,0.2,0.9,1.6,2.4
+Mean - Highest Tercile,Northwest,20.0,73.9,114.2,146.9,170.9
+,Southwest,11.7,73.2,129.2,132.4,187.7
+,Southern Plains,7.4,33.8,56.9,69.6,87.5
+,Northern Plains,8.9,27.9,66.4,93.2,117.1
+,Midwest,6.3,30.3,61.6,89.5,118.6
+,Southeast,12.1,26.7,49.8,83.5,113.1
+,Northeast,4.1,15.1,35.6,58.6,83.4
+,NATIONAL,8.9,35.6,66.7,89.4,121.0
+Median - Lowest Tercile,Northwest,0.0,0.0,0.0,0.0,0.0
+,Southwest,-0.6,-0.3,0.0,0.0,0.0
+,Southern Plains,0.0,0.0,0.0,0.0,0.0
+,Northern Plains,-0.5,0.0,0.0,0.0,0.0
+,Midwest,-0.1,0.0,0.2,0.4,0.5
+,Southeast,0.0,0.0,0.0,0.0,0.0
+,Northeast,0.0,0.0,0.0,0.1,0.2
+,NATIONAL,-0.1,0.0,0.0,0.0,0.1
+Median - Medium Tercile,Northwest,0.0,0.1,0.2,0.3,0.3
+,Southwest,-0.1,0.0,0.7,1.1,2.3
+,Southern Plains,0.0,0.1,0.2,0.2,0.3
+,Northern Plains,0.0,0.1,0.6,0.9,1.1
+,Midwest,0.0,0.6,1.8,2.9,3.9
+,Southeast,0.1,0.4,0.9,1.6,2.3
+,Northeast,0.0,0.2,0.4,1.2,2.0
+,NATIONAL,0.0,0.2,0.7,1.3,2.1
+Median - Highest Tercile,Northwest,0.6,3.3,6.5,8.4,9.8
+,Southwest,0.0,0.8,5.3,6.4,10.3
+,Southern Plains,0.4,1.8,3.8,5.2,7.4
+,Northern Plains,0.9,7.6,23.9,31.2,36.7
+,Midwest,1.0,9.1,21.2,33.1,44.1
+,Southeast,2.3,6.3,12.2,20.9,29.5
+,Northeast,0.5,2.7,6.1,12.8,18.6
+,NATIONAL,0.7,4.0,9.9,16.2,22.6

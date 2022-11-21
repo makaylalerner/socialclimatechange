@@ -1,0 +1,44 @@
+﻿,,Hours lost (hours / person / year),,,,,
+Means and Medians,,25 cm,50 cm,75 cm,100 cm,125 cm,150 cm
+Mean - Lowest Tercile,Southwest, 1 , 5 , 17 , 33 , 57 , 69 
+,Northwest, 0 , 1 , 2 , 4 , 7 , 9 
+,Southern Great Plains, 17 , 71 , 90 , 92 , 92 , 93 
+,Southeast - Gulf, 1 , 5 , 7 , 7 , 6 , 6 
+,Southeast - Atlantic, 1 , 9 , 22 , 33 , 41 , 44 
+,Northeast, 2 , 9 , 19 , 25 , 29 , 30 
+,NATIONAL, 1 , 6 , 14 , 19 , 24 , 26 
+Mean - Medium Tercile,Southwest, 9 , 72 , 247 , 494 , 843 ," 1,037 "
+,Northwest, 0 , 2 , 7 , 14 , 25 , 31 
+,Southern Great Plains, 73 , 251 , 315 , 325 , 326 , 326 
+,Southeast - Gulf, 4 , 20 , 37 , 42 , 44 , 44 
+,Southeast - Atlantic, 8 , 59 , 152 , 222 , 270 , 289 
+,Northeast, 10 , 46 , 94 , 124 , 146 , 157 
+,NATIONAL, 8 , 47 , 108 , 150 , 182 , 196 
+Mean - Highest Tercile,Southwest, 246 ," 1,523 "," 4,791 "," 9,264 "," 15,736 "," 19,319 "
+,Northwest, 13 , 48 , 136 , 265 , 478 , 615 
+,Southern Great Plains," 1,760 "," 8,082 "," 10,864 "," 11,352 "," 11,418 "," 11,420 "
+,Southeast - Gulf, 52 , 466 ," 1,281 "," 1,767 "," 1,926 "," 1,936 "
+,Southeast - Atlantic, 73 , 506 ," 1,293 "," 1,883 "," 2,261 "," 2,439 "
+,Northeast, 121 , 504 ," 1,106 "," 1,598 "," 2,095 "," 2,338 "
+,NATIONAL, 204 ," 1,036 "," 2,146 "," 3,151 "," 4,302 "," 4,910 "
+Median - Lowest Tercile,Southwest, 0 , 3 , 10 , 21 , 35 , 43 
+,Northwest, 0 , 1 , 2 , 4 , 6 , 8 
+,Southern Great Plains, 16 , 70 , 88 , 90 , 91 , 91 
+,Southeast - Gulf, 1 , 5 , 7 , 7 , 7 , 7 
+,Southeast - Atlantic, 1 , 7 , 19 , 28 , 35 , 38 
+,Northeast, 2 , 9 , 18 , 23 , 25 , 27 
+,NATIONAL, 1 , 5 , 11 , 15 , 20 , 22 
+Median - Medium Tercile,Southwest, 8 , 64 , 229 , 467 , 798 , 998 
+,Northwest, 0 , 2 , 6 , 12 , 20 , 26 
+,Southern Great Plains, 67 , 233 , 301 , 315 , 316 , 316 
+,Southeast - Gulf, 3 , 16 , 28 , 33 , 33 , 34 
+,Southeast - Atlantic, 7 , 56 , 143 , 209 , 257 , 274 
+,Northeast, 9 , 41 , 85 , 114 , 134 , 145 
+,NATIONAL, 7 , 42 , 93 , 129 , 160 , 170 
+Median - Highest Tercile,Southwest, 51 , 333 ," 1,063 "," 2,132 "," 3,686 "," 4,517 "
+,Northwest, 2 , 13 , 46 , 96 , 168 , 215 
+,Southern Great Plains, 532 ," 2,392 "," 2,990 "," 3,055 "," 3,064 "," 3,064 "
+,Southeast - Gulf, 16 , 126 , 335 , 393 , 425 , 427 
+,Southeast - Atlantic, 35 , 281 , 747 ," 1,093 "," 1,254 "," 1,292 "
+,Northeast, 49 , 231 , 491 , 672 , 845 , 928 
+,NATIONAL, 46 , 255 , 588 , 901 ," 1,194 "," 1,312 "
